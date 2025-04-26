@@ -22,9 +22,5 @@ Successfully ran the CI/CD Pipeline and pushed the built and scanned images to D
 <img width="953" alt="Image" src="https://github.com/user-attachments/assets/e747267d-aa7b-4d0b-892f-7b1bd5e42dc5" />
 
 
-![image](https://github.com/user-attachments/assets/919b9ce3-210b-469d-a7f9-2fd5123f35e2)
-
-
-
 ## API Documentation  
 
